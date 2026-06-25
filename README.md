@@ -1,7 +1,35 @@
 # krkrsdl3-no-vcpkg
 [WIP] My krkrsdl3 fork,without vcpkg and ffmpeg, with apt install instead
 
-# About Original vcpkg build apk and vcpkg build linux version
+## Build for Android
+* cd android_adt\jni
+* Execute .\console.bat
+```
+::execute ndk-build
+
+::@set PATH=D:\android-ndk-r9c;%PATH%
+::@set PATH=D:\android-ndk-r10e;%PATH%
+@set PATH=D:\home\soft\android_studio_sdk\ndk\25.2.9519653;%PATH%
+@set NDK_MODULE_PATH=%CD%\..\..
+@cmd
+```
+* ndk-build -j8 (or ndk-build -j8)
+* copy ./android_adt/libs to ./android/app/libs
+* Open ./android with Android Studio, build apk and install  
+
+## Build for Linux, for Xubuntu 20.04 64bit virtualbox  
+* sudo apt install gcc g++ gedit git lftp make
+* sudo apt install libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxkbcommon-dev
+* sudo apt install libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
+* sudo apt install libasound2-dev 
+* sudo apt install libegl-mesa0 libegl1 libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
+* sudo apt install libfreetype-dev libturbojpeg-dev libwebp-dev libopusfile-dev libvorbis-dev libopencv-dev libswscale-dev libglm-dev libonig-dev
+* make clean
+* make -j8
+* make test
+* make debug
+
+## About Original vcpkg build apk and vcpkg build linux version
 ```
 NOTE: For Android, you should put data.xp3 into subfolder of the search path, not the top of search path
 like this, if you set your search path to /storage/emulated/0/kr2
@@ -15,7 +43,7 @@ instead of
 ./krkrsdl3 ./data.xp3
 ```
 
-# weibo record
+## weibo record
 ```
 编译krkrsdl3/krkrsdl3的linux版，可以编译，但运行失败（好像是sdl初始化失败？）。
 很想吐槽vcpkg难用，不过算了，反正找到方法改库代码，当没事了。可能下次编译安卓版，
