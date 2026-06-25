@@ -1,0 +1,41 @@
+{
+    "dependencies": [
+        "oniguruma",
+        "zlib",
+        "ffmpeg",
+        "libpng",
+        "libwebp",
+        "libjpeg-turbo",
+        "libvorbis",
+        "opusfile",
+        "freetype",
+        "plutovg",
+
+        "sdl3",
+        "sdl3-ttf",
+        "glm",
+        {
+            "name": "glad",
+            "features": ["loader"],
+            "platform": "windows | linux"
+        },
+        {
+            "name": "glad",
+            "features": ["egl", "loader"],
+            "platform": "android"
+        },
+
+        {
+            "name": "opencv4",
+            "default-features": false
+        }
+    ],
+    "builtin-baseline": "e5a1490e1409d175932ef6014519e9ae149ddb7c",
+    "overrides": [
+        {
+            "name": "ffmpeg",
+            "version": "7.1.2",
+            "port-version": 5
+        }
+    ]
+}

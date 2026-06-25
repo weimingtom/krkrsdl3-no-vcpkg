@@ -1,0 +1,1238 @@
+2026-06-25 16:03:24.482 26214-26229 AppScoutStateMachine    org.tvp.krkrsdl3                     D  26214-ScoutStateMachinecreated
+2026-06-25 16:03:24.492 26214-26247 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityStart: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@140902693
+2026-06-25 16:03:24.492 26214-26247 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:03:24.496 26214-26247 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityResume: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@140902693
+2026-06-25 16:03:24.496 26214-26247 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:03:24.509   791-1292  BufferQueueDebug        surfaceflinger                       E  [org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#37983](this:0xb4000074df419a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#37983'
+2026-06-25 16:03:24.519 26214-26214 BufferQueueConsumer     org.tvp.krkrsdl3                     D  [](id:666600000004,api:0,p:-1,c:26214) connect: controlledByApp=false
+2026-06-25 16:03:24.522 26214-26243 OpenGLRenderer          org.tvp.krkrsdl3                     E  Unable to match the desired swap behavior.
+2026-06-25 16:03:24.523 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.performTraversals:4435 android.view.ViewRootImpl.doTraversal:3044 android.view.ViewRootImpl$TraversalRunnable.run:10578 android.view.Choreographer$CallbackRecord.run:1715 android.view.Choreographer$CallbackRecord.run:1724 
+2026-06-25 16:03:24.523 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[MainActivity]#12
+2026-06-25 16:03:24.537   791-993   BufferQueueDebug        surfaceflinger                       E  [d7d9c19 ActivityRecordInputSink org.tvp.krkrsdl3/.MainActivity#37987](this:0xb4000074db506a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'd7d9c19 ActivityRecordInputSink org.tvp.krkrsdl3/.MainActivity#37987'
+2026-06-25 16:03:24.546 26214-26243 BLASTBufferQueue        org.tvp.krkrsdl3                     D  [VRI[MainActivity]#4](f:0,a:1) acquireNextBufferLocked size=720x1600 mFrameNumber=1 applyTransaction=true mTimestamp=248352063284263(auto) mPendingTransactions.size=0 graphicBufferId=112588272697373 transform=0
+2026-06-25 16:03:24.547 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:03:24.563 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.handleResized:2343 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6850 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6819 android.os.Handler.dispatchMessage:106 
+2026-06-25 16:03:24.580 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[MainActivity]#14
+2026-06-25 16:03:24.585 26214-26214 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:03:24.726 26214-26214 HandWritingStubImpl     org.tvp.krkrsdl3                     I  refreshLastKeyboardType: 1
+2026-06-25 16:03:24.726 26214-26214 HandWritingStubImpl     org.tvp.krkrsdl3                     I  getCurrentKeyboardType: 1
+---------------------------- PROCESS ENDED (26214) for package org.tvp.krkrsdl3 ----------------------------
+2026-06-25 16:03:25.580  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=363   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:31.786  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=363   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:31.897  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=363   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:31.926  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=363   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:31.984  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=363   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=270532608 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:32.131  1525-1846  AppScanObserverService  system_server                        E  Try to add a invalid package: org.tvp.krkrsdl3 | 10284 | 0
+2026-06-25 16:03:36.087   791-994   BufferQueueDebug        surfaceflinger                       E  [ActivityRecord{b2fc1f0 u0 org.tvp.krkrsdl3/.MainActivity t365}#38008](this:0xb4000074ded29a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'ActivityRecord{b2fc1f0 u0 org.tvp.krkrsdl3/.MainActivity t365}#38008'
+2026-06-25 16:03:36.116   791-994   BufferQueueDebug        surfaceflinger                       E  [92cfcab Splash Screen org.tvp.krkrsdl3#38009](this:0xb4000074ded38a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from '92cfcab Splash Screen org.tvp.krkrsdl3#38009'
+2026-06-25 16:03:36.120  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=365   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=268435456 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:36.123   791-994   BufferQueueDebug        surfaceflinger                       E  [Splash Screen org.tvp.krkrsdl3#38010](this:0xb4000074ded45a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Splash Screen org.tvp.krkrsdl3#38010'
+2026-06-25 16:03:36.131 27376-27376 Zygote                  pid-27376                            E  process_name_ptr:27376 org.tvp.krkrsdl3
+2026-06-25 16:03:36.154   791-1682  BufferQueueDebug        surfaceflinger                       E  [3c67a33 ActivityRecordInputSink org.tvp.krkrsdl3/.MainActivity#38014](this:0xb4000074db5dba50,id:-1,api:0,p:-1,c:-1) id info cannot be read from '3c67a33 ActivityRecordInputSink org.tvp.krkrsdl3/.MainActivity#38014'
+2026-06-25 16:03:36.190  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=365   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=268435456 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:36.215  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=365   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=268435456 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:03:36.239  3506-5137  SuggestManager          com.miui.securitycenter.remote       E  openApp name = org.tvp.krkrsdl3
+---------------------------- PROCESS STARTED (27376) for package org.tvp.krkrsdl3 ----------------------------
+2026-06-25 16:03:36.856 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityStart: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@258339578
+2026-06-25 16:03:36.856 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:03:36.860 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityResume: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@258339578
+2026-06-25 16:03:36.860 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:03:36.872 27376-27376 SurfaceFactory          org.tvp.krkrsdl3                     I  [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@ba78358
+2026-06-25 16:03:36.875 27376-27376 MbrainDebugManagerImpl  org.tvp.krkrsdl3                     D  getService failed
+2026-06-25 16:03:36.875 27376-27412 PowerHalWrapper         org.tvp.krkrsdl3                     I  PowerHalWrapper.getInstance 
+2026-06-25 16:03:36.878 27376-27376 Compatibil...geReporter org.tvp.krkrsdl3                     D  Compat change id reported: 237531167; UID 10284; state: DISABLED
+2026-06-25 16:03:36.881 27376-27376 FramePredict            org.tvp.krkrsdl3                     D  FramePredict init: true
+2026-06-25 16:03:36.881 27376-27376 FramePredict            org.tvp.krkrsdl3                     D  init success
+2026-06-25 16:03:36.883 27376-27416 FramePredict            org.tvp.krkrsdl3                     E  registerContentObserver fail
+2026-06-25 16:03:36.883 27376-27376 OpenGLRenderer          org.tvp.krkrsdl3                     W  Unknown dataspace 0
+2026-06-25 16:03:36.890 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:03:36.894 27376-27376 VRI[MainActivity]       org.tvp.krkrsdl3                     D  hardware acceleration = true, forceHwAccelerated = false
+2026-06-25 16:03:36.896   791-1681  BufferQueueDebug        surfaceflinger                       E  [6fd35dc org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38015](this:0xb4000074df38ba50,id:-1,api:0,p:-1,c:-1) id info cannot be read from '6fd35dc org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38015'
+2026-06-25 16:03:36.901 27376-27376 libMEOW                 org.tvp.krkrsdl3                     D  applied 0 plugin for [org.tvp.krkrsdl3].
+2026-06-25 16:03:36.904 27376-27376 Looper                  org.tvp.krkrsdl3                     W  PerfMonitor looperActivity : package=org.tvp.krkrsdl3/.MainActivity time=1ms latency=654ms  procState=-1  historyMsgCount=4 (msgIndex=3 wall=174ms seq=3 late=8ms h=android.app.ActivityThread$H w=110) (msgIndex=4 wall=478ms seq=4 late=177ms h=android.app.ActivityThread$H w=159)
+2026-06-25 16:03:36.940   791-1682  BufferQueueDebug        surfaceflinger                       E  [org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38016](this:0xb4000074db5dea50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38016'
+2026-06-25 16:03:36.953 27376-27376 BufferQueueConsumer     org.tvp.krkrsdl3                     D  [](id:6af000000000,api:0,p:-1,c:27376) connect: controlledByApp=false
+2026-06-25 16:03:36.959 27376-27406 libMEOW                 org.tvp.krkrsdl3                     D  meow new tls: 0xb4000070a3b70440
+2026-06-25 16:03:36.959 27376-27406 libMEOW                 org.tvp.krkrsdl3                     D  applied 0 plugin for [org.tvp.krkrsdl3].
+2026-06-25 16:03:36.977 27376-27406 OpenGLRenderer          org.tvp.krkrsdl3                     E  Unable to match the desired swap behavior.
+2026-06-25 16:03:37.027 27376-27376 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.performTraversals:4435 android.view.ViewRootImpl.doTraversal:3044 android.view.ViewRootImpl$TraversalRunnable.run:10578 android.view.Choreographer$CallbackRecord.run:1715 android.view.Choreographer$CallbackRecord.run:1724 
+2026-06-25 16:03:37.029 27376-27376 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[MainActivity]#0
+2026-06-25 16:03:37.048 27376-27406 OpenGLRenderer          org.tvp.krkrsdl3                     D  makeCurrent grContext:0xb4000070a3cb3d00 reset mTextureAvailable
+2026-06-25 16:03:37.049 27376-27406 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     D  MiuiProcessManagerServiceStub setSchedFifo
+2026-06-25 16:03:37.049 27376-27406 MiuiProcessManagerImpl  org.tvp.krkrsdl3                     I  setSchedFifo pid:27376, mode:3
+2026-06-25 16:03:37.051 27376-27406 MAGT_SYNC_FRAME         org.tvp.krkrsdl3                     D  MAGT Sync: MAGT is not supported. Disabling Sync.
+2026-06-25 16:03:37.053 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:03:37.076 27376-27406 LB                      org.tvp.krkrsdl3                     E  fail to open file: No such file or directory
+2026-06-25 16:03:37.076 27376-27406 LB                      org.tvp.krkrsdl3                     E  fail to open node: No such file or directory
+2026-06-25 16:03:37.076 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:03:37.077 27376-27406 BLASTBufferQueue        org.tvp.krkrsdl3                     D  [VRI[MainActivity]#0](f:0,a:1) acquireNextBufferLocked size=720x1600 mFrameNumber=1 applyTransaction=true mTimestamp=248364593907648(auto) mPendingTransactions.size=0 graphicBufferId=117579024695301 transform=0
+2026-06-25 16:03:37.079 27376-27376 VRI[MainActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:03:37.081   791-1682  BufferQueueDebug        surfaceflinger                       E  [Surface(name=6fd35dc org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38015)/@0x15585ba - animation-leash of starting_reveal#38019](this:0xb4000074db5eaa50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Surface(name=6fd35dc org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity#38015)/@0x15585ba - animation-leash of starting_reveal#38019'
+2026-06-25 16:03:37.099   791-1681  BufferQueueDebug        surfaceflinger                       E  [Surface(name=92cfcab Splash Screen org.tvp.krkrsdl3#38009)/@0x18496a1 - animation-leash of window_animation#38020](this:0xb4000074df419a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Surface(name=92cfcab Splash Screen org.tvp.krkrsdl3#38009)/@0x18496a1 - animation-leash of window_animation#38020'
+2026-06-25 16:03:37.101 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:03:37.108 27376-27376 HandWritingStubImpl     org.tvp.krkrsdl3                     I  refreshLastKeyboardType: 1
+2026-06-25 16:03:37.108 27376-27376 HandWritingStubImpl     org.tvp.krkrsdl3                     I  getCurrentKeyboardType: 1
+2026-06-25 16:03:37.123 27376-27376 HandWritingStubImpl     org.tvp.krkrsdl3                     I  getCurrentKeyboardType: 1
+2026-06-25 16:03:39.253  3506-5153  AppPredict              com.miui.securitycenter.remote       E  click app not fount, pkgName is org.tvp.krkrsdl3
+2026-06-25 16:03:44.369 27376-27398 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     I  ProcessProfilingInfo new_methods=1085 is saved saved_to_disk=1 resolve_classes_delay=8000
+2026-06-25 16:04:08.089 27376-27376 MirrorManager           org.tvp.krkrsdl3                     W  this model don't Support
+2026-06-25 16:04:08.097 27376-27376 MiuiMultiWindowUtils    org.tvp.krkrsdl3                     D  freeform resolution args raw data:{  "wide_default":{    "freeform_args": {        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.168,"left_margin":0.484},        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":0.5643,"original_scale":0.74,"top_margin":0.1222,"left_margin":0.59745},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.2596,"left_margin":0.2624},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.604,"top_margin":0.213,"left_margin":0.3758}    },    "mini_freeform_args":{        "vertical_portrait":{"original_ratio":0.147},        "horizontal_portrait":{"original_ratio":0.147},        "vertical_landscape":{"original_ratio":0.165},        "horizontal_landscape":{"original_ratio":0.165}    }  },  "narrow_default": {    "freeform_args": {        "vertical_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.74,"top_margin":0.0753,"left_margin":-1},        "horizontal_portrait":{"aspect_ratio":0.626, "original_ratio":1,"original_scale":0.5756,"top_margin":-1,"left_margin":0.0753},        "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":0.0753,"left_margin":-1},        "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":0.6847,"original_scale":0.587,"top_margin":-1,"left_margin":0.0753}    },    "mini_freeform_args":{        "vertical_portrait":{"original_ratio":0.26},        "horizontal_portrait":{"original_ratio":0.26},        "vertical_landscape":{"original_ratio":0.293},        "horizontal_landscape":{"original_ratio":0.293}    }  },  "regular_default": {    "freeform_args": {      "vertical_portrait":{"aspect_ratio":0.625, "original_ratio":1,"original_scale":0.7,"top_margin":0.109,"left_margin":-1},      "horizontal_portrait":{"aspect_ratio":0.6667, "original_ratio":1,"original_scale":0.6102,"top_margin":-1,"left_margin":0.026},      "vertical_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":0.109,"left_margin":-1},      "horizontal_landscape":{"aspect_ratio":1.6, "original_ratio":1,"original_scale":0.4244,"top_margin":-1,"left_margin":0.026}    },    "mini_freeform_args":{      "vertical_portrait":{"original_ratio":0.25},      "horizontal_portrait":{"original_ratio":0.25},      "vertical_landscape":{"original_ratio":0.25},      "horizontal_landscape":{"original_ratio":0.25}    }  },  "pad_default": {    "freeform_args": {      "vertical_portrait":{"aspect_ratio":0.5625, "original_ratio":0.375,"original_scale":0.835,"top_margin":0.049,"left_margin":0.2775},      "horizontal_portrait":{"aspect_ratio":0.5625, "original_ratio":0.375,"original_scale":0.835,"top_margin":-1,"left_margin":0.6525},      "vertical_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":0.049,"left_margin":-1},      "horizontal_landscape":{"aspect_ratio":-1, "original_ratio":1,"original_scale":0.468,"top_margin":-1,"left_margin":0.4976}    },    "mini_freeform_args":{      "vertical_portrait":{"original_ratio":0.144},      "horizontal_portrait":{"original_ratio":0.144},      "vertical_landscape":{"original_ratio":0.2},      "horizontal_landscape":{"original_ratio":0.2}    }  }}
+2026-06-25 16:04:08.103 27376-27386 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     I  This is non sticky GC, maxfree is 8388608 minfree is 524288
+2026-06-25 16:04:08.105 27376-27376 MiuiMultiWindowUtils    org.tvp.krkrsdl3                     D  initFreeFormResolutionArgs failed, device is air
+2026-06-25 16:04:08.106 27376-27376 IS_CTS_MODE             org.tvp.krkrsdl3                     D  false
+2026-06-25 16:04:08.106 27376-27376 MULTI_WIND...CH_ENABLED org.tvp.krkrsdl3                     D  false
+2026-06-25 16:04:08.107 27376-27388 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     W  ApkAssets: Deleting an ApkAssets object '<empty> and /product/app/MiuiContentCatcherMIUI15/MiuiContentCatcherMIUI15.apk' with 1 weak references
+2026-06-25 16:04:08.107 27376-27388 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     W  ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/priv-app/RtMiCloudSDK/RtMiCloudSDK.apk' with 1 weak references
+2026-06-25 16:04:08.107 27376-27388 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     W  ApkAssets: Deleting an ApkAssets object '<empty> and /system_ext/app/miuisystem/miuisystem.apk' with 1 weak references
+2026-06-25 16:04:08.195   791-1682  BufferQueueDebug        surfaceflinger                       E  [ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38022](this:0xb4000074db5eda50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38022'
+2026-06-25 16:04:08.211 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityPause: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@258339578
+2026-06-25 16:04:08.211 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:04:08.241 27376-27406 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     E  DynamicFPS DF open fail: No such file or directory
+2026-06-25 16:04:08.241 27376-27406 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     W  remote service is not exist
+2026-06-25 16:04:08.243 27376-27451 libMEOW                 org.tvp.krkrsdl3                     D  meow new tls: 0xb400007086c097c0
+2026-06-25 16:04:08.243 27376-27451 libMEOW                 org.tvp.krkrsdl3                     D  applied 0 plugin for [org.tvp.krkrsdl3].
+2026-06-25 16:04:08.243 27376-27451 libMEOW                 org.tvp.krkrsdl3                     D  meow delete tls: 0xb400007086c097c0
+2026-06-25 16:04:08.278 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Manufacturer: Xiaomi
+2026-06-25 16:04:08.278 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Device: air
+2026-06-25 16:04:08.278 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Model: 23124RN87C
+2026-06-25 16:04:08.278 27376-27376 SDL                     org.tvp.krkrsdl3                     V  onCreate()
+2026-06-25 16:04:08.282 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : Init Interceptor for Activity org.tvp.krkrsdl3.KRKRActivity@8dafdeb
+2026-06-25 16:04:08.283 27376-27409 ViewContentFactory      org.tvp.krkrsdl3                     D  initViewContentFetcherClass
+2026-06-25 16:04:08.283 27376-27409 ContentCatcher          org.tvp.krkrsdl3                     I  ViewContentFetcher : ViewContentFetcher
+2026-06-25 16:04:08.283 27376-27409 ViewContentFactory      org.tvp.krkrsdl3                     D  createInterceptor took 0ms
+2026-06-25 16:04:08.283 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityCreate: org.tvp.krkrsdl3@org.tvp.krkrsdl3.KRKRActivity@148569579
+2026-06-25 16:04:08.283 27376-27376 SDL                     org.tvp.krkrsdl3                     V  nativeSetupJNI()
+2026-06-25 16:04:08.283 27376-27376 SDL                     org.tvp.krkrsdl3                     V  AUDIO nativeSetupJNI()
+2026-06-25 16:04:08.283 27376-27409 ContentCatcherManager   org.tvp.krkrsdl3                     E  failed to get ContentCatcherService.
+2026-06-25 16:04:08.284 27376-27376 SDL                     org.tvp.krkrsdl3                     V  CONTROLLER nativeSetupJNI()
+2026-06-25 16:04:08.284 27376-27409 ContentCatcherManager   org.tvp.krkrsdl3                     E  failed to get ContentCatcherService.
+2026-06-25 16:04:08.284 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : NOT interest in this page: org.tvp.krkrsdl3@org.tvp.krkrsdl3.KRKRActivity@148569579
+2026-06-25 16:04:08.284 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:04:08.304 27376-27376 DecorView[]             org.tvp.krkrsdl3                     D  getWindowModeFromSystem  windowmode is 1
+2026-06-25 16:04:08.310 27376-27376 ScrollerOp...ionManager org.tvp.krkrsdl3                     D  registerConfigChangedListener
+2026-06-25 16:04:08.332  2196-2687  ActivityManagerWrapper  com.miui.home                        E  getRecentTasks: mainTaskId=365   userId=0   windowMode=1   baseIntent=Intent { act=android.intent.action.MAIN flag=268435456 cmp=ComponentInfo{org.tvp.krkrsdl3/org.tvp.krkrsdl3.MainActivity} }
+2026-06-25 16:04:08.333 27376-27376 SDL                     org.tvp.krkrsdl3                     V  onStart()
+2026-06-25 16:04:08.333 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityStart: org.tvp.krkrsdl3@org.tvp.krkrsdl3.KRKRActivity@148569579
+2026-06-25 16:04:08.333 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:04:08.335 27376-27376 SDL                     org.tvp.krkrsdl3                     V  onResume()
+2026-06-25 16:04:08.336 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityResume: org.tvp.krkrsdl3@org.tvp.krkrsdl3.KRKRActivity@148569579
+2026-06-25 16:04:08.336 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:04:08.344 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:04:08.344 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  hardware acceleration = true, forceHwAccelerated = false
+2026-06-25 16:04:08.348   791-1292  BufferQueueDebug        surfaceflinger                       E  [e3c1071 org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38025](this:0xb4000074df510a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'e3c1071 org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38025'
+2026-06-25 16:04:08.361   791-1292  BufferQueueDebug        surfaceflinger                       E  [org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38026](this:0xb4000074df5c7a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38026'
+2026-06-25 16:04:08.374 27376-27376 BufferQueueConsumer     org.tvp.krkrsdl3                     D  [](id:6af000000001,api:0,p:-1,c:27376) connect: controlledByApp=false
+2026-06-25 16:04:08.379 27376-27406 OpenGLRenderer          org.tvp.krkrsdl3                     E  Unable to match the desired swap behavior.
+2026-06-25 16:04:08.383 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.performTraversals:4435 android.view.ViewRootImpl.doTraversal:3044 android.view.ViewRootImpl$TraversalRunnable.run:10578 android.view.Choreographer$CallbackRecord.run:1715 android.view.Choreographer$CallbackRecord.run:1724 
+2026-06-25 16:04:08.383 27376-27376 SurfaceView             org.tvp.krkrsdl3                     D  UPDATE null, mIsCastMode = false
+2026-06-25 16:04:08.383   791-1292  BufferQueueDebug        surfaceflinger                       E  [Bounds for - org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38029](this:0xb4000074ded4ba50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Bounds for - org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity#38029'
+2026-06-25 16:04:08.385   791-1292  BufferQueueDebug        surfaceflinger                       E  [SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#38030](this:0xb4000074ded79a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#38030'
+2026-06-25 16:04:08.386   791-1292  BufferQueueDebug        surfaceflinger                       E  [SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity](BLAST)#38031](this:0xb4000074ded91a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity](BLAST)#38031'
+2026-06-25 16:04:08.386   791-1292  BufferQueueDebug        surfaceflinger                       E  [Background for SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#38032](this:0xb4000074df5b7a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Background for SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#38032'
+2026-06-25 16:04:08.387 27376-27376 BufferQueueConsumer     org.tvp.krkrsdl3                     D  [](id:6af000000002,api:0,p:-1,c:27376) connect: controlledByApp=false
+2026-06-25 16:04:08.388 27376-27376 SDL                     org.tvp.krkrsdl3                     V  surfaceCreated()
+2026-06-25 16:04:08.388 27376-27376 SDL                     org.tvp.krkrsdl3                     V  surfaceChanged()
+2026-06-25 16:04:08.388 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Window size: 1548x720
+2026-06-25 16:04:08.388 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Device size: 1600x720
+2026-06-25 16:04:08.398 27376-27453 SDL                     org.tvp.krkrsdl3                     V  nativeInitSDLThread() 1 time
+2026-06-25 16:04:08.398 27376-27453 SDL                     org.tvp.krkrsdl3                     V  Running main function SDL_main from library /data/app/~~LuuPjp1ZB3ur6_GTvvHERA==/org.tvp.krkrsdl3-IdPPWnxecBusBrCnnMwRKw==/lib/arm64/libkrkrsdl3.so, arguments == [/storage/emulated/0/kr2/data/data.xp3, -render=software]
+2026-06-25 16:04:08.399 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[KRKRActivity]#3
+2026-06-25 16:04:08.402 27376-27406 OpenGLRenderer          org.tvp.krkrsdl3                     D  makeCurrent grContext:0xb4000070a3cb3d00 reset mTextureAvailable
+2026-06-25 16:04:08.407 27376-27406 BLASTBufferQueue        org.tvp.krkrsdl3                     D  [VRI[KRKRActivity]#1](f:0,a:1) acquireNextBufferLocked size=1548x720 mFrameNumber=1 applyTransaction=true mTimestamp=248395923744881(auto) mPendingTransactions.size=0 graphicBufferId=117579024695302 transform=7
+2026-06-25 16:04:08.407 27376-27453 libMEOW                 org.tvp.krkrsdl3                     D  meow new tls: 0xb40000710fdf17c0
+2026-06-25 16:04:08.408 27376-27453 libMEOW                 org.tvp.krkrsdl3                     D  applied 0 plugin for [org.tvp.krkrsdl3].
+2026-06-25 16:04:08.408 27376-27453 SDL                     org.tvp.krkrsdl3                     V  setOrientation() requestedOrientation=13 width=1280 height=720 resizable=true hint=
+2026-06-25 16:04:08.408 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:04:08.410 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  pixel format wanted SDL_PIXELFORMAT_RGBA8888 (1), got SDL_PIXELFORMAT_RGBA8888 (1)
+2026-06-25 16:04:08.413   791-1681  BufferQueueDebug        surfaceflinger                       E  [Transition Root: ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38033](this:0xb4000074df422a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Transition Root: ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38033'
+2026-06-25 16:04:08.414   791-1682  BufferQueueDebug        surfaceflinger                       E  [Surface(name=ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38022)/@0xb4e9de7 - rotation-leash#38034](this:0xb4000074db497a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'Surface(name=ActivityRecord{530e501 u0 org.tvp.krkrsdl3/.KRKRActivity t365}#38022)/@0xb4e9de7 - rotation-leash#38034'
+2026-06-25 16:04:08.417   791-1292  BufferQueueDebug        surfaceflinger                       E  [6b2eae8 ActivityRecordInputSink org.tvp.krkrsdl3/.KRKRActivity#38035](this:0xb4000074df5f3a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from '6b2eae8 ActivityRecordInputSink org.tvp.krkrsdl3/.KRKRActivity#38035'
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  OpenGL Vendor    : ARM
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  OpenGL Renderer  : Mali-G57 MC2
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  OpenGL Version   : OpenGL ES 3.2 v1.r38p1
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  GLSL Version     : OpenGL ES GLSL ES 3.20
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  Supported Extensions (104):
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_debug_marker
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_rgba8
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_mali_shader_binary
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_depth24
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_depth_texture
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_depth_texture_cube_map
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_packed_depth_stencil
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_rgb8_rgba8
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_read_format_bgra
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_compressed_paletted_texture
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_compressed_ETC1_RGB8_texture
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_standard_derivatives
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_EGL_image
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_EGL_image_external
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_EGL_image_external_essl3
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_EGL_sync
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_npot
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_vertex_half_float
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_required_internalformat
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_vertex_array_object
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_mapbuffer
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_format_BGRA8888
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_rg
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_type_2_10_10_10_REV
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_fbo_render_mipmap
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_element_index_uint
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_shadow_samplers
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_compression_astc
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_texture_compression_astc_ldr
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_texture_compression_astc_hdr
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_texture_compression_astc_sliced_3d
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_compression_astc_decode_mode
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_compression_astc_decode_mode_rgb9e5
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_debug
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_occlusion_query_boolean
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_disjoint_timer_query
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_blend_minmax
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_discard_framebuffer
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_get_program_binary
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_3D
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_storage
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_multisampled_render_to_texture
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_multisampled_render_to_texture2
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_surfaceless_context
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_stencil8
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_shader_pixel_local_storage
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_shader_framebuffer_fetch
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_shader_framebuffer_fetch_depth_stencil
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_mali_program_binary
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_sRGB
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_sRGB_write_control
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_sRGB_decode
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_sRGB_R8
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_sRGB_RG8
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_blend_equation_advanced
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_blend_equation_advanced_coherent
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_storage_multisample_2d_array
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_shader_image_atomic
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_robustness
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_draw_buffers_indexed
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_draw_buffers_indexed
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_border_clamp
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_border_clamp
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_cube_map_array
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_cube_map_array
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_sample_variables
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_sample_shading
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_shader_multisample_interpolation
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_shader_io_blocks
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_shader_io_blocks
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_tessellation_shader
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_tessellation_shader
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_primitive_bounding_box
+2026-06-25 16:04:08.421 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_primitive_bounding_box
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_geometry_shader
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_geometry_shader
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ANDROID_extension_pack_es31a
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_gpu_shader5
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_gpu_shader5
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_buffer
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_buffer
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_copy_image
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_copy_image
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_shader_non_constant_global_initializers
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_color_buffer_half_float
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_unpack_subimage
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_color_buffer_float
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_float_blend
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_YUV_target
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OVR_multiview
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OVR_multiview2
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OVR_multiview_multisampled_render_to_texture
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_robustness
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_KHR_robust_buffer_access_behavior
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_draw_elements_base_vertex
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_draw_elements_base_vertex
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_protected_textures
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_buffer_storage
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_external_buffer
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_EGL_image_array
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_texture_filter_anisotropic
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_OES_texture_float_linear
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_ARM_texture_unnormalized_coordinates
+2026-06-25 16:04:08.422 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I    GL_EXT_shader_framebuffer_fetch
+2026-06-25 16:04:08.422   791-993   BufferQueueDebug        surfaceflinger                       E  [DefaultTransition Dim Layer for - Surface(name=ActivityRecord{b2fc1f0 u0 org.tvp.krkrsdl3/.MainActivity t365}#38008)/@0xe534981#38036](this:0xb4000074db531a50,id:-1,api:0,p:-1,c:-1) id info cannot be read from 'DefaultTransition Dim Layer for - Surface(name=ActivityRecord{b2fc1f0 u0 org.tvp.krkrsdl3/.MainActivity t365}#38008)/@0xe534981#38036'
+2026-06-25 16:04:08.423 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Data path : file://./storage/emulated/0/kr2/data/savedata/
+2026-06-25 16:04:08.419 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796351): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:08.419 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796352): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:08.432 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.427 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796353): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:08.432 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.427 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796354): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:08.433 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.427 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796355): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:08.433 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.442 27376-27376 SurfaceView             org.tvp.krkrsdl3                     D  UPDATE Surface(name=SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#38030)/@0x68f9cc1, mIsProjectionMode = false
+2026-06-25 16:04:08.445 27376-27376 SDL                     org.tvp.krkrsdl3                     V  surfaceChanged()
+2026-06-25 16:04:08.445 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Window size: 1454x652
+2026-06-25 16:04:08.445 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Device size: 1600x720
+2026-06-25 16:04:08.465 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.handleResized:2343 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6850 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6819 android.os.Handler.dispatchMessage:106 
+2026-06-25 16:04:08.481 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.performTraversals:3869 android.view.ViewRootImpl.doTraversal:3044 android.view.ViewRootImpl$TraversalRunnable.run:10578 android.view.Choreographer$CallbackRecord.run:1715 android.view.Choreographer$CallbackRecord.run:1724 
+2026-06-25 16:04:08.482 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  1===>file://./storage/emulated/0/kr2/data//fonts
+2026-06-25 16:04:08.482 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  1.5===>file://./storage/emulated/0/kr2/data//fonts
+2026-06-25 16:04:08.482 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  2===>./storage/emulated/0/kr2/data/fonts/
+2026-06-25 16:04:08.483 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 Program started on Android 14 (14) (Android)
+2026-06-25 16:04:08.483 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.483 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Rebuilding Auto Path Table ...
+2026-06-25 16:04:08.483 27376-27406 OpenGLRenderer          org.tvp.krkrsdl3                     E  Unable to match the desired swap behavior.
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Total 0 file(s) found, 0 file(s) activated. (1ms)
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, Initialize()
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, 1
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, 2
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, 3
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, 4
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 AllRegist:0
+2026-06-25 16:04:08.484 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 AllRegist:1
+2026-06-25 16:04:08.485 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 AllRegist:2
+2026-06-25 16:04:08.485 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.486 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPApplication::StartApplication, TVPBeforeSystemInit
+2026-06-25 16:04:08.486 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPBeforeSystemInit
+2026-06-25 16:04:08.486 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.486 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Total physical memory : 5329293312
+2026-06-25 16:04:08.486 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[KRKRActivity]#6
+2026-06-25 16:04:08.494 27376-27406 BLASTBufferQueue        org.tvp.krkrsdl3                     D  [VRI[KRKRActivity]#1](f:0,a:3) producer disconnected before acquireNextBufferLocked
+2026-06-25 16:04:08.495 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:04:08.496 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Specified option(s) (earlier item has more priority) : -render=software
+2026-06-25 16:04:08.496 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.497 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.497 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.497 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>tTVPArchiveCache.Get
+2026-06-25 16:04:08.497 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPOpenArchive, tTVPXP3Archive::Create
+2026-06-25 16:04:08.497 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.499 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Trying to read XP3 virtual file system information from : file://./storage/emulated/0/kr2/data/data.xp3
+2026-06-25 16:04:08.502 27376-27376 HandWritingStubImpl     org.tvp.krkrsdl3                     I  refreshLastKeyboardType: 1
+2026-06-25 16:04:08.502 27376-27376 HandWritingStubImpl     org.tvp.krkrsdl3                     I  getCurrentKeyboardType: 1
+2026-06-25 16:04:08.502 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Done. (contains 181 file(s), 191 segment(s))
+2026-06-25 16:04:08.503 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Loading startup script : file://./storage/emulated/0/kr2/data/data.xp3>startup.tjs
+2026-06-25 16:04:08.503 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.506 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.506 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.516 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.516 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Rebuilding Auto Path Table ...
+2026-06-25 16:04:08.517 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  1===>/storage/emulated/0/kr2/data/video/
+2026-06-25 16:04:08.517 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  2===>/storage/emulated/0/kr2/data/video//
+2026-06-25 16:04:08.518 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 (info) Total 175 file(s) found, 175 file(s) activated. (1ms)
+2026-06-25 16:04:08.518 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.519 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.519 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.520 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.520 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.521 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.521 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.521 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.521 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.522 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.522 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.522 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.522 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 OS : Android 14 (14) (Android)
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 KAG : 3.27-dev.20060219
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 Kirikiri : 2.32.2.426
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.523 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.526 27376-27376 SDL                     org.tvp.krkrsdl3                     V  surfaceChanged()
+2026-06-25 16:04:08.526 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Window size: 1600x720
+2026-06-25 16:04:08.526 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Device size: 1600x720
+2026-06-25 16:04:08.533 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了Config.tjs ，消耗时间(10ms)
+2026-06-25 16:04:08.533 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.533 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.535 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.535 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了UpdateConfig.tjs ，消耗时间(3ms)
+2026-06-25 16:04:08.535 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 KAG System 正在读取中...
+2026-06-25 16:04:08.535 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.535 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.537 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.handleResized:2343 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6850 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6819 android.os.Handler.dispatchMessage:106 
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 ----- CxImage Copyright START -----
+                                                                                                    CxImage version 5.99c 17/Oct/2004
+                                                                                                    CxImage : Copyright (C) 2001 - 2004, Davide Pizzolato
+                                                                                                    Original CImage and CImageIterator implementation are:
+                                                                                                    Copyright (C) 1995, Alejandro Aguilar Sierra (asierra(at)servidor(dot)unam(dot)mx)
+                                                                                                    ----- CxImage Copyright END -----
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 BeginAttachTJS2Class: layerExImage
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   ID: 31
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   RegistItem: light
+2026-06-25 16:04:08.540 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[KRKRActivity]#10
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   RegistItem: colorize
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   RegistItem: modulate
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   RegistItem: noise
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08   RegistItem: generateWhiteNoise
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 EndAttachClass: layerExImage
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了LayerEx.tjs ，消耗时间(5ms)
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.540 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.543 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:04:08.549 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了Utils.tjs ，消耗时间(9ms)
+2026-06-25 16:04:08.549 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.549 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.554 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了KAGLayer.tjs ，消耗时间(4ms)
+2026-06-25 16:04:08.554 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.554 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.563 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了ButtonLayer.tjs ，消耗时间(9ms)
+2026-06-25 16:04:08.563 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.563 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.570 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了SelectLayer.tjs ，消耗时间(8ms)
+2026-06-25 16:04:08.571 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.571 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.581 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了MapSelectLayer.tjs ，消耗时间(10ms)
+2026-06-25 16:04:08.581 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.581 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.597 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了DialogLayer.tjs ，消耗时间(16ms)
+2026-06-25 16:04:08.597 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.597 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了HistoryLayer.tjs ，消耗时间(18ms)
+2026-06-25 16:04:08.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了BGM.tjs ，消耗时间(9ms)
+2026-06-25 16:04:08.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了SE.tjs ，消耗时间(5ms)
+2026-06-25 16:04:08.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.635 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了Movie.tjs ，消耗时间(6ms)
+2026-06-25 16:04:08.635 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.635 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.641 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了Conductor.tjs ，消耗时间(6ms)
+2026-06-25 16:04:08.641 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.641 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.654 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了AffineLayer.tjs ，消耗时间(12ms)
+2026-06-25 16:04:08.654 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.654 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.669 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了ActionLayer.tjs ，消耗时间(15ms)
+2026-06-25 16:04:08.669 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.669 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.684 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了AnimationLayer.tjs ，消耗时间(15ms)
+2026-06-25 16:04:08.684 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.684 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.694 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了GraphicLayer.tjs ，消耗时间(11ms)
+2026-06-25 16:04:08.695 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.695 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.758 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了MessageLayer.tjs ，消耗时间(63ms)
+2026-06-25 16:04:08.758 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.758 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.765 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了Menus.tjs ，消耗时间(8ms)
+2026-06-25 16:04:08.765 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.765 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.770 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了DefaultMover.tjs ，消耗时间(4ms)
+2026-06-25 16:04:08.770 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.770 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.892 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 读取了MainWindow.tjs ，消耗时间(122ms)
+2026-06-25 16:04:08.892 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.892 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:08.892 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 脚本读取消耗了 370ms 的时间
+2026-06-25 16:04:08.907 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:08 Detected CPU core(s): 8
+2026-06-25 16:04:09.039 27376-27376 BLASTBufferQueue        org.tvp.krkrsdl3                     D  [VRI[MainActivity]#0](f:0,a:4) destructor()
+2026-06-25 16:04:09.039 27376-27376 BufferQueueConsumer     org.tvp.krkrsdl3                     D  [VRI[MainActivity]#0(BLAST Consumer)0](id:6af000000000,api:0,p:-1,c:27376) disconnect
+2026-06-25 16:04:09.054 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.handleResized:2343 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$ViewRootHandler.handleMessageImpl:6850 android.view.ViewRootImpl$ViewRootHandler.handleMessage:6819 android.os.Handler.dispatchMessage:106 
+2026-06-25 16:04:09.063 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.068 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.070 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportNextDraw android.view.ViewRootImpl.performTraversals:3869 android.view.ViewRootImpl.doTraversal:3044 android.view.ViewRootImpl$TraversalRunnable.run:10578 android.view.Choreographer$CallbackRecord.run:1715 android.view.Choreographer$CallbackRecord.run:1724 
+2026-06-25 16:04:09.072 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.Setup new sync=wmsSync-VRI[KRKRActivity]#12
+2026-06-25 16:04:09.082 27376-27376 VRI[KRKRActivity]       org.tvp.krkrsdl3                     D  vri.reportDrawFinished
+2026-06-25 16:04:09.091 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 KAGMainWindow 的创建消耗了 198ms 的时间
+2026-06-25 16:04:09.091 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.091 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.092 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.100 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 开始处理
+2026-06-25 16:04:09.102 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 (info) Startup script ended.
+2026-06-25 16:04:09.102 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.108 27376-27386 rg.tvp.krkrsdl3         org.tvp.krkrsdl3                     I  This is non sticky GC, maxfree is 8388608 minfree is 524288
+2026-06-25 16:04:09.607 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.607 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.607 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.607 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.607 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @loadplugin module=wuvorbis.dll
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 插件已经读取 : wuvorbis.dll
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @loadplugin module=extrans.dll
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 插件已经读取 : extrans.dll
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp="global.useconfigMappfont==true"
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @mappfont storage=&global.configMappfont
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=p
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @oporig
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.608 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @autolabelmode mode=true
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @erafterpage mode=true
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=lr
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @l
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @r
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=fg
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @image * layer=%layer|%lay|0 page=back visible=true storage=%storage|%file left=%l|200 top=%t|0 opacity=%op pos=%pos
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans * method=%method|crossfade time=%time|400 layer=base
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt canskip="false"
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=bg
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @eval exp="mp.method=universal" cond=mp.us
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @image * layer=base page=back storage=%storage|%file left=%l top=%t
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans * method=%method|crossfade time=%time|1000 layer=base
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt canskip="false"
+2026-06-25 16:04:09.609 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=pbg
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @eval exp="mp.method=universal" cond=mp.us
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @pimage * layer=base page=back storage=%storage dx=0 dy=0
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans * method=%method|crossfade time=%time|1000 layer=base
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt canskip="false"
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=staffbg
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @image layer=base page=back storage="ExtraBg" visible=true left=0 top=0
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @pimage layer=base page=back storage=%storage visible=true dx=0 dy=0
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans method=universal time=2000 rule="16"
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt canskip="false"
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wait time=1000
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.610 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=cl
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @eval exp="mp.method=universal" cond=mp.us
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.all
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @clearlayers page=back
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay layer=message cond=mp.keep=="msg"|"back"
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay layer=base cond=mp.keep=="back"
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @clearlayers page=fore keep=%keep
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @copylay srclayer=message destlayer=message srcpage=back destpage=fore cond=mp.keep=="msg"|"back"
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @copylay srclayer=base destlayer=base srcpage=back destpage=fore cond=mp.keep=="back"
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @freeimage layer=%layer|%lay|0 page=back
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans * method=%method|crossfade time=%time|400 layer=base
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt canskip="false"
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.611 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=bgm
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.play||(!mp.stop)
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.time!=0
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @xchgbgm storage=%storage|%file overlap=%time loop=%loop|true volume=%volume|100
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.time==(void)
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @playbgm storage=%storage|%file loop=%loop|true volume=%volume|100
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.stop
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @fadeoutbgm buf=%buf|0 time=%time|0
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.wait
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wb buf=%buf|0
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=se
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.play||(!mp.stop)
+2026-06-25 16:04:09.612 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.time!=0
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @fadeinse buf=%buf|0 storage=%storage|%file time=%time volume=%volume|100 loop=%loop|false loop=%loop|false
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.time==(void)
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @playse storage=%storage|%file loop=%loop|false volume=%volume|100 buf=%buf|0
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.stop
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @fadeoutse buf=0 time=%time|0
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.wait
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wf buf=%buf|0
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @ws buf=%buf|0
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @macro name=text
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.on
+2026-06-25 16:04:09.613 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @backlay
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message page=back visible=true
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans method=crossfade time=%time|0
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message page=fore visible=true
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @if exp=mp.off
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message page=back visible=false
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @trans method=crossfade time=%time|0
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @wt
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message page=fore visible=false
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endif
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @endmacro
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.614 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @call storage=textset.ks
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : call stack depth before calling : 0
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @macro name=menul
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : [position layer=%layer|message page=fore visible=true opacity=0 top=0 height=600 left=0 width=800 marginl=0 margint=0 marginr=0 marginb=0 frame=%frame| ]
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @endmacro
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : 
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @macro name=val
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : [position layer=%layer|message page=fore visible=true opacity=128 top=15 height=570 left=20 width=760 marginl=60 margint=45 marginr=24 marginb=30 frame=%frame| ]
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @endmacro
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : 
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @macro name=advl
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @backlay
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : [position layer=message0 page=back visible=true opacity=0 top=380 height=220 left=0 width=760 marginl=80 margint=45 marginr=60 marginb=30 frame=Talk.png ]
+2026-06-25 16:04:09.615 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @trans method=crossfade time=%time|600
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @wt
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : [position layer=message0 page=fore visible=true opacity=0 top=380 height=220 left=0 width=760 marginl=80 margint=45 marginr=60 marginb=30 frame=Talk.png ]
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @current layer=message0
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @endmacro
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : 
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @macro name=vala
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : [position layer=%layer|message1 page=back visible=true opacity=0 top=0 height=600 left=0 width=800 marginl=0 margint=0 marginr=0 marginb=0 frame=%frame| ]
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @endmacro
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : 
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 textset.ks : @return
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : jumped to : *init
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : returned to : *init line offset 141
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : call stack depth after returning : 0
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.616 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=0 index=1000
+2026-06-25 16:04:09.617 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=1 index=2000
+2026-06-25 16:04:09.617 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=2 index=3000
+2026-06-25 16:04:09.617 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message0 index=4000
+2026-06-25 16:04:09.617 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=3 index=5000
+2026-06-25 16:04:09.617 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @layopt layer=message1 index=6000
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 func.ks : @jump storage=first.ks
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : @call storage=gvolume.ks
+2026-06-25 16:04:09.618 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : call stack depth before calling : 0
+2026-06-25 16:04:09.619 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.619 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @if exp="typeof(global.gvolume_object) == 'undefined'"
+2026-06-25 16:04:09.619 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : 
+2026-06-25 16:04:09.621 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.621 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 读取了Plugin.tjs ，消耗时间(1ms)
+2026-06-25 16:04:09.623 27376-27376 SDL                     org.tvp.krkrsdl3                     V  surfaceChanged()
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : 
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @endif
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : 
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @macro name="gvolmenu"
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @eval exp="gvolume_object.createMenu(mp.name, mp.control)"
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @endmacro
+2026-06-25 16:04:09.623 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Window size: 1454x652
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : 
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 gvolume.ks : @return
+2026-06-25 16:04:09.623 27376-27376 SDL                     org.tvp.krkrsdl3                     V  Device size: 1600x720
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : jumped to : *start
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : returned to : *start line offset 11
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : call stack depth after returning : 0
+2026-06-25 16:04:09.623 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : @call storage=WindowZoom.ks
+2026-06-25 16:04:09.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : call stack depth before calling : 0
+2026-06-25 16:04:09.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.624 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 WindowZoom.ks : @if exp="typeof(global.windowzoom_object) == 'undefined'"
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 WindowZoom.ks : @return
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : jumped to : *start
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : returned to : *start line offset 12
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : call stack depth after returning : 0
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.628 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : @gvolmenu name="背景音乐(&B)" control="bgm"
+2026-06-25 16:04:09.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : @gvolmenu name="菜单音效(&S)" control="0"
+2026-06-25 16:04:09.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 100
+2026-06-25 16:04:09.629 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.630 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : 
+2026-06-25 16:04:09.630 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 first.ks : @bg storage="Black" time=600
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.637 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.638 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.639 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.643 27376-27376 Looper                  org.tvp.krkrsdl3                     W  PerfMonitor doFrame : time=33ms vsyncFrame=5842979 latency=499ms procState=-1 historyMsgCount=1 (msgIndex=1 wall=502ms seq=171 late=1ms h=org.libsdl.app.SDLActivity$SDLCommandHandler w=0)
+2026-06-25 16:04:09.648 27376-27409 ContentCatcher_injector org.tvp.krkrsdl3                     D  Interceptor : notifyActivityStop: org.tvp.krkrsdl3@org.tvp.krkrsdl3.MainActivity@258339578
+2026-06-25 16:04:09.648 27376-27409 ContentCatcher_catcher  org.tvp.krkrsdl3                     D  CatcherHolder : mCatcherList size: 0
+2026-06-25 16:04:09.652 27376-27376 Looper                  org.tvp.krkrsdl3                     W  PerfMonitor looperActivity : package=org.tvp.krkrsdl3/.MainActivity time=8ms latency=524ms  procState=-1  historyMsgCount=2 (msgIndex=1 wall=502ms seq=171 late=1ms h=org.libsdl.app.SDLActivity$SDLCommandHandler w=0)
+2026-06-25 16:04:09.656 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.656 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:09.656 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:09 Black 的读取花费了 20ms。
+2026-06-25 16:04:09.673 27376-27453 BLASTBufferQueue        org.tvp.krkrsdl3                     E  [SurfaceView[org.tvp.krkrsdl3/org.tvp.krkrsdl3.KRKRActivity]#2](f:0,a:0) rejecting buffer:active_size=1454x652, requested_size=1454x652 buffer{size=720x1548 transform=7}
+2026-06-25 16:04:09.689 27376-27406 libc                    org.tvp.krkrsdl3                     W  Access denied finding property "ro.vendor.display.iris_x7.support"
+2026-06-25 16:04:10.281 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:10 first.ks : @bg storage="OP01" time=2000
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.286 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.287 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.295 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.295 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:10.295 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:10 OP01 的读取花费了 10ms。
+2026-06-25 16:04:12.324 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:12 first.ks : @wait time=1000
+2026-06-25 16:04:12.319 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796401): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:12.323 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796402): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:13.353 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:13 first.ks : @bg storage="Black" time=1500
+2026-06-25 16:04:13.395 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:13.395 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:13.396 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:13 Black 的读取花费了 1ms。
+2026-06-25 16:04:14.923 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 
+2026-06-25 16:04:14.924 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 标签/页 : *anchor/
+2026-06-25 16:04:14.931 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @startanchor
+2026-06-25 16:04:14.935 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796409): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:14.941 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.935 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796410): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:14.935 27376-27376 SDLThread               org.tvp.krkrsdl3                     W  type=1400 audit(0.0:796411): avc:  denied  { read } for  name="/" dev="dm-12" ino=59 scontext=u:r:untrusted_app:s0:c28,c257,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=org.tvp.krkrsdl3
+2026-06-25 16:04:14.950 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 
+2026-06-25 16:04:14.950 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @menul
+2026-06-25 16:04:14.958 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @rclick enabled=false
+2026-06-25 16:04:14.958 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 
+2026-06-25 16:04:14.958 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @eval exp="kag.caption='Spring Days'"
+2026-06-25 16:04:14.958 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @history enabled=false output=false
+2026-06-25 16:04:14.959 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 
+2026-06-25 16:04:14.959 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @menul
+2026-06-25 16:04:14.963 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @current layer=message page=back
+2026-06-25 16:04:14.963 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @er
+2026-06-25 16:04:14.967 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : 
+2026-06-25 16:04:14.967 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @backlay
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @image layer=base page=back storage="BG32a" visible=true left=0 top=0
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.972 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.973 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.974 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.989 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.989 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 BG32a 的读取花费了 18ms。
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:14 first.ks : @pimage layer=base page=back storage="GameMenu" visible=true dx=50 dy=110
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.990 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.991 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:14.992 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.006 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : 
+2026-06-25 16:04:15.006 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @locate x=142 y=160
+2026-06-25 16:04:15.006 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @button normal="BStart0" over="BStart1" exp="tf.menu='1'" target=*BMenu enterse="Ling" buf=0
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.007 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.008 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.010 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.011 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.012 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.013 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @locate x=142 y=230
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @button normal="BLoad0" over="BLoad1" exp="tf.menu='2'" target=*BMenu enterse="Ling" buf=0
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.014 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.015 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.016 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.017 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.017 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.017 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.017 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.018 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.019 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.021 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @locate x=142 y=300
+2026-06-25 16:04:15.021 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @button normal="BExtra0" enterse="Fing" buf=0 cond="sf.complete==false"
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.022 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.023 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.024 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.024 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.024 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.024 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.026 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @button normal="BExtra0" over="BExtra1" exp="tf.menu='3'" target=*BMenu enterse="Ling" buf=0 cond="sf.complete==true"
+2026-06-25 16:04:15.026 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @locate x=142 y=370
+2026-06-25 16:04:15.026 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @button normal="BExit0" over="BExit1" exp="kag.close()" enterse="Ling" buf=0
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.027 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.028 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.029 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.029 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.029 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.029 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.029 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.030 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.030 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.030 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.030 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.031 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.032 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  ===>TVPIsExistentStorageNoSearchNoNormalize
+2026-06-25 16:04:15.034 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @trans method=crossfade time=1000
+2026-06-25 16:04:15.034 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:15 first.ks : @wt
+2026-06-25 16:04:16.074 27376-27453 SDL/APP                 org.tvp.krkrsdl3                     I  16:04:16 first.ks : @s
