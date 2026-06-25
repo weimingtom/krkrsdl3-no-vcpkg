@@ -13,7 +13,8 @@
 @set NDK_MODULE_PATH=%CD%\..\..
 @cmd
 ```
-* ndk-build -j8 (or ndk-build -j8)
+* ndk-build -j8
+* (or ndk-build NDK_DEBUG=1 V=1 -j8)
 * copy ./android_adt/libs to ./android/app/libs
 * Open ./android with Android Studio, build apk and install  
 
