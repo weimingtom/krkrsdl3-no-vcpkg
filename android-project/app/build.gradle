@@ -67,7 +67,7 @@ android {
 
 
     //-----------------------
-    //put .so to app/libs/arm64-v8a/libmain.so -> libkrkrz.so, see SDLActivity#getLibraries()
+    //put .so to app/libs/arm64-v8a/libkrkrsdl3.so and app/libs/arm64-v8a/libSDL3.so, see SDLActivity#getLibraries()
     sourceSets {
         main {
             jniLibs.srcDirs = ['libs']
