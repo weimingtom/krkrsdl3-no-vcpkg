@@ -1,12 +1,21 @@
 /out
 /core
+
 /android_adt/obj
 /android_adt/libs
+
 /android/app/libs
 /android/.gradle
 /android/.idea
 /android/.idea
 /android/local.properties
+
+/android-project/app/libs
+/android-project/.gradle
+/android-project/.idea
+/android-project/.idea
+/android-project/local.properties
+
 
 # build target
 /**/cmake-build-android/
