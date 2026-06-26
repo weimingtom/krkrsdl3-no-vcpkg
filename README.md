@@ -33,7 +33,7 @@
 * make test
 * make debug
 * (Not need: libswscale-dev libwebp-dev libopencv-dev)
-* (You should execute krkrsdl3 data.xp3 with **FULL PATH (realpath)**, **both krkrsdl3 and data.xp3**, like: /home/wmt/krkrsdl3 /home/wmt/data.xp3)  
+* (You should execute krkrsdl3 data.xp3 with **FULL PATH (realpath)**, **both krkrsdl3 and data.xp3**, like: /home/wmt/krkrsdl3 /home/wmt/data.xp3, although I may add some codes to fix this issue)  
 
 ## About Original vcpkg build apk and vcpkg build linux version
 * NOTE: For Android, you should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path  
