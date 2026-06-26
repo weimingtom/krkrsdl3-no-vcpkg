@@ -5,7 +5,7 @@
 #(for xubuntu 20.04 64bit virtualbox)
 #sudo apt install libegl-mesa0 libegl1 libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
 #
-#sudo apt install libfreetype-dev libturbojpeg-dev libwebp-dev libopusfile-dev libvorbis-dev libopencv-dev libswscale-dev libglm-dev libonig-dev
+#sudo apt install libfreetype-dev libturbojpeg-dev libopusfile-dev libvorbis-dev libopencv-core-dev libopencv-imgproc-dev libglm-dev libonig-dev
 
 CC  := gcc
 CPP := g++
