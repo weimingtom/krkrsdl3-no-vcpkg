@@ -3,7 +3,7 @@
 
 ## Build for Android, under Windows  
 * cd android_adt\jni
-* Edit and execute .\console.bat, point to Android NDK by environment variable PATH  
+* Edit and double click .\android_adt\jni\console.bat, point to Android NDK by environment variable PATH    
 ```
 ::execute ndk-build
 
