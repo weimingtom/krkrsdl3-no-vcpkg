@@ -18,6 +18,7 @@
 * (or ndk-build NDK_DEBUG=1 V=1 -j8)
 * copy ./android_adt/libs to ./android/app/libs
 * Open ./android with Android Studio, build apk and install  
+* (You should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path)    
 
 ## Build for Linux, for Xubuntu 20.04 64bit virtualbox  
 * (Below the apt packages before libfreetype-dev are from https://wiki.libsdl.org/SDL3/README-linux)
@@ -32,6 +33,7 @@
 * make test
 * make debug
 * (Not need: libswscale-dev libwebp-dev libopencv-dev)
+* (You should execute krkrsdl3 data.xp3 with **FULL PATH (realpath)**, **both krkrsdl3 and data.xp3**, like: /home/wmt/krkrsdl3 /home/wmt/data.xp3)  
 
 ## About Original vcpkg build apk and vcpkg build linux version
 * NOTE: For Android, you should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path  
