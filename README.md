@@ -1,9 +1,9 @@
 # krkrsdl3-no-vcpkg
 [WIP] My krkrsdl3 fork,without vcpkg and ffmpeg, with apt install instead
 
-## Build for Android
+## Build for Android, under Windows  
 * cd android_adt\jni
-* Execute .\console.bat
+* Edit and execute .\console.bat, point to Android NDK by environment variable PATH  
 ```
 ::execute ndk-build
 
@@ -13,6 +13,7 @@
 @set NDK_MODULE_PATH=%CD%\..\..
 @cmd
 ```
+* ndk-build clean
 * ndk-build -j8
 * (or ndk-build NDK_DEBUG=1 V=1 -j8)
 * copy ./android_adt/libs to ./android/app/libs
