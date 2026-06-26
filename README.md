@@ -20,17 +20,18 @@
 * Open ./android with Android Studio, build apk and install  
 
 ## Build for Linux, for Xubuntu 20.04 64bit virtualbox  
+* (Below the apt packages before libfreetype-dev are from https://wiki.libsdl.org/SDL3/README-linux)
 * sudo apt install gcc g++ gedit git lftp make
 * sudo apt install libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxkbcommon-dev
 * sudo apt install libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
 * sudo apt install libasound2-dev 
 * sudo apt install libegl-mesa0 libegl1 libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
 * sudo apt install libfreetype-dev libturbojpeg-dev libopusfile-dev libvorbis-dev libopencv-core-dev libopencv-imgproc-dev libglm-dev libonig-dev
-* (Not need: libswscale-dev libwebp-dev libopencv-dev)  
 * make clean
 * make -j8
 * make test
 * make debug
+* (Not need: libswscale-dev libwebp-dev libopencv-dev)
 
 ## About Original vcpkg build apk and vcpkg build linux version
 ```
