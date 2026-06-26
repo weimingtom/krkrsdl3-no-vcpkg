@@ -34,12 +34,12 @@
 * (Not need: libswscale-dev libwebp-dev libopencv-dev)
 
 ## About Original vcpkg build apk and vcpkg build linux version
-* NOTE: For Android, you should put data.xp3 into **subfolder** of the search path, not the top of search path  
+* NOTE: For Android, you should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path  
 like this, if you set your search path to /storage/emulated/0/kr2  
 data.xp3 file should be put into /storage/emulated/0/kr2/mygame1/data.xp3  
 not /storage/emulated/0/kr2/data.xp3  
 
-* NOTE: For Linux, you should execute krkrsdl3 data.xp3 with **full path (realpath)**, both krkrsdl3 and data.xp3  
+* NOTE: For Linux, you should execute krkrsdl3 data.xp3 with **FULL PATH (realpath)**, both krkrsdl3 and data.xp3  
 like this:  
 /home/wmt/krkrsdl3 /home/wmt/data.xp3  
 instead of  
