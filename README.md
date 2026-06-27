@@ -19,6 +19,12 @@
 * copy ./android_adt/libs to ./android/app/libs (or copy to ./android-project/app/libs)  
 * Open ./android (or ./android-project) with Android Studio, build apk and install  
 * (You should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path)    
+* For backtrace stack info:
+* https://github.com/weimingtom/krkrsdl3-no-vcpkg/blob/master/android_adt/jni/adb_logcat_and_debug_crash.txt
+* adb logcat -s krkr2:D
+* ndk-build clean
+* ndk-build NDK_DEBUG=1 -j8
+* ndk-stack -sym ../obj/local/arm64-v8a -dump aaa.txt  > aaa2.txt
 
 ## Build for Linux, for Xubuntu 20.04 64bit in VirtualBox 7.2.8 
 * (Below the apt packages before libfreetype-dev are from https://wiki.libsdl.org/SDL3/README-linux)
