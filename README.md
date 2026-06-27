@@ -1,7 +1,7 @@
 # krkrsdl3-no-vcpkg
 [WIP] My krkrsdl3 fork,without vcpkg and ffmpeg, with apt install instead
 
-## Build for Android, under Windows  
+## Build for Android, under Windows 11   
 * cd android_adt\jni
 * Edit and double click .\android_adt\jni\console.bat, point to Android NDK by environment variable PATH    
 ```
@@ -20,7 +20,7 @@
 * Open ./android (or ./android-project) with Android Studio, build apk and install  
 * (You should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path)    
 
-## Build for Linux, for Xubuntu 20.04 64bit virtualbox  
+## Build for Linux, for Xubuntu 20.04 64bit in VirtualBox 7.2.8 
 * (Below the apt packages before libfreetype-dev are from https://wiki.libsdl.org/SDL3/README-linux)
 * sudo apt install gcc g++ gedit git lftp make
 * sudo apt install libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxkbcommon-dev
