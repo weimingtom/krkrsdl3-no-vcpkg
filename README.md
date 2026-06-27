@@ -32,6 +32,9 @@
 * make -j8
 * make test
 * make debug
+* (gdb) catch throw
+* (see https://github.com/weimingtom/krkrsdl3-no-vcpkg/blob/master/cpp/core/archive/TVPStorage.cpp)  
+* (gdb) b TVPCreateStream
 * (Not need: libswscale-dev libwebp-dev libopencv-dev)
 * (You should execute krkrsdl3 data.xp3 with **FULL PATH (realpath)**, **both krkrsdl3 and data.xp3**, like: /home/wmt/krkrsdl3 /home/wmt/data.xp3, although I may add some codes to fix this issue)  
 
