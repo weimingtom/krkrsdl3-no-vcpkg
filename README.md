@@ -22,7 +22,7 @@
 * ===
 * For crash backtrace stack info:
 * https://github.com/weimingtom/krkrsdl3-no-vcpkg/blob/master/android_adt/jni/adb_logcat_and_debug_crash.txt
-* adb logcat -s krkr2:D
+* adb logcat, or adb logcat -s SDL/APP:D
 * ndk-build clean
 * ndk-build NDK_DEBUG=1 -j8
 * ndk-stack -sym ../obj/local/arm64-v8a -dump aaa.txt  > aaa2.txt
