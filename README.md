@@ -24,8 +24,8 @@
 * (Below the apt packages before libfreetype-dev are from https://wiki.libsdl.org/SDL3/README-linux)
 * sudo apt install gcc g++ gedit git lftp make
 * sudo apt install libx11-dev libxext-dev libxrandr-dev libxcursor-dev libxfixes-dev libxi-dev libxss-dev libxkbcommon-dev
-* sudo apt install libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
 * sudo apt install libasound2-dev 
+* (don't use this, use next line: sudo apt install libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev)   
 * sudo apt install libegl-mesa0 libegl1 libegl-dev libegl1-mesa-dev libgles2-mesa-dev libgl1-mesa-dev libdrm-dev libgbm-dev 
 * sudo apt install libfreetype-dev libturbojpeg-dev libopusfile-dev libvorbis-dev libopencv-core-dev libopencv-imgproc-dev libglm-dev libonig-dev
 * make clean
