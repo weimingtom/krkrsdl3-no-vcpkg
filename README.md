@@ -19,7 +19,8 @@
 * copy ./android_adt/libs to ./android/app/libs (or copy to ./android-project/app/libs)  
 * Open ./android (or ./android-project) with Android Studio, build apk and install  
 * (You should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path)    
-* For backtrace stack info:
+* ===
+* For crash backtrace stack info:
 * https://github.com/weimingtom/krkrsdl3-no-vcpkg/blob/master/android_adt/jni/adb_logcat_and_debug_crash.txt
 * adb logcat -s krkr2:D
 * ndk-build clean
