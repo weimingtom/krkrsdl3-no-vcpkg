@@ -15,7 +15,7 @@
 ```
 * ndk-build clean
 * ndk-build -j8
-* (or ndk-build NDK_DEBUG=1 V=1)
+* (or ndk-build NDK_DEBUG=1 -j8, or ndk-build V=1)  
 * copy ./android_adt/libs to ./android/app/libs (or copy to ./android-project/app/libs)  
 * Open ./android (or ./android-project) with Android Studio, build apk and install  
 * (You should put data.xp3 into **SUBFOLDER** of the search path, not the top of search path)    
